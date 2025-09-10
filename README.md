@@ -14,6 +14,6 @@
 » Resumir texto = facebook/bart-large-cnn
 » Abrir chat = meta-llama/Llama-3.2-3B-Instruct
 
-» OBS: Todos os Frameworks do projeto estão no arquivo requirements.txt «
+» As demais bibliotecas se encontram no arquivo "requirements.txt" 
 
-Caso queria fazer testes, entre no site https://huggingface.co/ faça login, e gere um token de acesso, copie o token gerado e cole dentro do arquivo .env .
+Caso queria fazer testes, entre no site https://huggingface.co/ faça login, gere um token de acesso, copie o token gerado e cole dentro do arquivo .env .
