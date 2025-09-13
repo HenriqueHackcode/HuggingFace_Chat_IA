@@ -8,7 +8,7 @@
 
 » Principais Frameworks de Python.
 
-» Streamlit - huggingface-hub - pandas - nunpy - pyllow - openai - pytorch - requests.
+» Streamlit - huggingface-hub - pandas - nunpy - pyllow - openai - pytorch.
 
 » Gerar texto = meta-llama/Llama-3.2-3B-Instruct
 » Resumir texto = facebook/bart-large-cnn
